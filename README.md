@@ -27,9 +27,6 @@
 
 ### Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" width="50" src="https://img.icons8.com/?size=96&id=3sGOUDo9nJ4k&format=png"/>
-<img height="60" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Terraform_Logo.svg"/>
-
-<img height="50" width="50" src="https://img.icons8.com/ios/452/azure-devops.png"/>
 
 
 
