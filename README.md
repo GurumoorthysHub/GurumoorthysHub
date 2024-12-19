@@ -27,4 +27,6 @@
 
 ### Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" width="50" src="https://img.icons8.com/?size=96&id=3sGOUDo9nJ4k&format=png"/>
-<img height="50" width="50" src="https://github.com/user-attachments/assets/797e2c96-da62-4a26-b730-4d08db671d0a](https://tse4.mm.bing.net/th?id=OIP.D5dPW0_9jua6Byo2DIYzIwHaIq&pid=Api&P=0&h=180.png"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=96&id=FGoYh5hEJ13i&format=png"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=96&id=K2WgqgHpi7q3&format=png"/>
+
