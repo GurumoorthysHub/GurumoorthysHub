@@ -29,4 +29,4 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" width="50" src="https://img.icons8.com/?size=96&id=3sGOUDo9nJ4k&format=png"/>
 
 
--Thank you for visiting my profile! I'm excited about the opportunities in cloud computing and always open to learning and connecting.
+-Thank you for visiting my profile! I'm excited about the opportunities from you and always open to learning and connecting.
